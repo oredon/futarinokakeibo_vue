@@ -17,8 +17,13 @@ a:hover{
 
 /* datepicker用スタイル上書き */
 .datepicker-input{
-  width: 0px !important;
+  width: 50px !important;
   padding: 0 33px 0 0 !important;
+  display: inline-block;
+  color: #fff !important;
+}
+.datepicker-close, .datepicker:before{
+  right: 8px !important;
 }
 .datepicker-popup{
   right: 0;
