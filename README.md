@@ -8,7 +8,9 @@
 
 ## DEMO
 
-underconstruction.
+[http://oredon.guitarkouza.net/kakeibovue](http://oredon.guitarkouza.net/kakeibovue)
+
+ID/PW: admin/admin
 
 ## これは？
 
