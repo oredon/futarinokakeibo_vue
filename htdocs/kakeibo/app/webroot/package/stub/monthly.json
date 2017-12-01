@@ -1,0 +1,190 @@
+{
+    "category": {
+        "1": "食料品",
+        "2": "雑貨",
+        "3": "生活消耗品",
+        "4": "家具・家電",
+        "5": "医療",
+        "6": "家賃",
+        "7": "電気水道ガス通信",
+        "8": "遊興費",
+        "9": "その他"
+    },
+    "danna": 112000,
+    "detail": [
+        {
+            "Form": {
+                "category_id": "1",
+                "created": "2017-12-15",
+                "date": "2017-11-01",
+                "description": "いつものスーパーで買い物",
+                "id": "1",
+                "modified": "2017-12-15",
+                "pay_danna": "1000",
+                "pay_yome": "200",
+                "price": "1200",
+                "title": "スーパー"
+            }
+        },
+        {
+            "Form": {
+                "category_id": "2",
+                "created": "2017-12-15",
+                "date": "2017-11-05",
+                "description": "",
+                "id": "2",
+                "modified": "2017-12-15",
+                "pay_danna": "1000",
+                "pay_yome": "1000",
+                "price": "2000",
+                "title": "街の雑貨屋さん"
+            }
+        },
+        {
+            "Form": {
+                "category_id": "3",
+                "created": "2017-12-15",
+                "date": "2017-11-10",
+                "description": "",
+                "id": "3",
+                "modified": "2017-12-15",
+                "pay_danna": "1000",
+                "pay_yome": null,
+                "price": "1000",
+                "title": "トモズ"
+            }
+        },
+        {
+            "Form": {
+                "category_id": "4",
+                "created": "2017-12-15",
+                "date": "2017-11-15",
+                "description": "",
+                "id": "4",
+                "modified": "2017-12-15",
+                "pay_danna": "25000",
+                "pay_yome": "25000",
+                "price": "50000",
+                "title": "タンス"
+            }
+        },
+        {
+            "Form": {
+                "category_id": "5",
+                "created": "2017-12-15",
+                "date": "2017-11-15",
+                "description": "",
+                "id": "5",
+                "modified": "2017-12-15",
+                "pay_danna": "4000",
+                "pay_yome": null,
+                "price": "4000",
+                "title": "予防接種"
+            }
+        },
+        {
+            "Form": {
+                "category_id": "8",
+                "created": "2017-12-15",
+                "date": "2017-11-20",
+                "description": "思い出たくさんつくろうね",
+                "id": "6",
+                "modified": "2017-12-15",
+                "pay_danna": "10000",
+                "pay_yome": null,
+                "price": "10000",
+                "title": "海ドライブ"
+            }
+        },
+        {
+            "Form": {
+                "category_id": "6",
+                "created": "2017-12-15",
+                "date": "2017-11-25",
+                "description": "",
+                "id": "7",
+                "modified": "2017-12-15",
+                "pay_danna": "60000",
+                "pay_yome": "60000",
+                "price": "120000",
+                "title": "家賃"
+            }
+        },
+        {
+            "Form": {
+                "category_id": "7",
+                "created": "2017-12-15",
+                "date": "2017-11-30",
+                "description": "",
+                "id": "8",
+                "modified": "2017-12-15",
+                "pay_danna": "10000",
+                "pay_yome": "5000",
+                "price": "15000",
+                "title": "光熱費とか"
+            }
+        }
+    ],
+    "list": [
+        {
+            "category_id": "1",
+            "category_name": "食料品",
+            "sum_danna": "1000",
+            "sum_price": "1200",
+            "sum_yome": "200"
+        },
+        {
+            "category_id": "2",
+            "category_name": "雑貨",
+            "sum_danna": "1000",
+            "sum_price": "2000",
+            "sum_yome": "1000"
+        },
+        {
+            "category_id": "3",
+            "category_name": "生活消耗品",
+            "sum_danna": "1000",
+            "sum_price": "1000",
+            "sum_yome": null
+        },
+        {
+            "category_id": "5",
+            "category_name": "医療",
+            "sum_danna": "4000",
+            "sum_price": "4000",
+            "sum_yome": null
+        },
+        {
+            "category_id": "4",
+            "category_name": "家具・家電",
+            "sum_danna": "25000",
+            "sum_price": "50000",
+            "sum_yome": "25000"
+        },
+        {
+            "category_id": "8",
+            "category_name": "遊興費",
+            "sum_danna": "10000",
+            "sum_price": "10000",
+            "sum_yome": null
+        },
+        {
+            "category_id": "6",
+            "category_name": "家賃",
+            "sum_danna": "60000",
+            "sum_price": "120000",
+            "sum_yome": "60000"
+        },
+        {
+            "category_id": "7",
+            "category_name": "電気水道ガス通信",
+            "sum_danna": "10000",
+            "sum_price": "15000",
+            "sum_yome": "5000"
+        }
+    ],
+    "msg": "月データを表示します",
+    "status": "1",
+    "sum": 203200,
+    "yome": 91200
+}

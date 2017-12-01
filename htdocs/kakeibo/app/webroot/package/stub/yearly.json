@@ -1,0 +1,192 @@
+{
+    "category": {
+        "1": "食料品",
+        "2": "雑貨",
+        "3": "生活消耗品",
+        "4": "家具・家電",
+        "5": "医療",
+        "6": "家賃",
+        "7": "電気水道ガス通信",
+        "8": "遊興費",
+        "9": "その他"
+    },
+    "mon1": {
+        "danna": 0,
+        "sum": 0,
+        "yome": 0
+    },
+    "mon10": {
+        "danna": 0,
+        "sum": 0,
+        "yome": 0
+    },
+    "mon11": {
+        "1": {
+            "category_id": "1",
+            "category_name": "食料品",
+            "sum_danna": "1000",
+            "sum_price": "1200",
+            "sum_yome": "200"
+        },
+        "2": {
+            "category_id": "2",
+            "category_name": "雑貨",
+            "sum_danna": "1000",
+            "sum_price": "2000",
+            "sum_yome": "1000"
+        },
+        "3": {
+            "category_id": "3",
+            "category_name": "生活消耗品",
+            "sum_danna": "1000",
+            "sum_price": "1000",
+            "sum_yome": null
+        },
+        "4": {
+            "category_id": "4",
+            "category_name": "家具・家電",
+            "sum_danna": "25000",
+            "sum_price": "50000",
+            "sum_yome": "25000"
+        },
+        "5": {
+            "category_id": "5",
+            "category_name": "医療",
+            "sum_danna": "4000",
+            "sum_price": "4000",
+            "sum_yome": null
+        },
+        "6": {
+            "category_id": "6",
+            "category_name": "家賃",
+            "sum_danna": "60000",
+            "sum_price": "120000",
+            "sum_yome": "60000"
+        },
+        "7": {
+            "category_id": "7",
+            "category_name": "電気水道ガス通信",
+            "sum_danna": "10000",
+            "sum_price": "15000",
+            "sum_yome": "5000"
+        },
+        "8": {
+            "category_id": "8",
+            "category_name": "遊興費",
+            "sum_danna": "10000",
+            "sum_price": "10000",
+            "sum_yome": null
+        },
+        "danna": 112000,
+        "sum": 203200,
+        "yome": 91200
+    },
+    "mon12": {
+        "1": {
+            "category_id": "1",
+            "category_name": "食料品",
+            "sum_danna": "5000",
+            "sum_price": "7200",
+            "sum_yome": "2200"
+        },
+        "2": {
+            "category_id": "2",
+            "category_name": "雑貨",
+            "sum_danna": "3000",
+            "sum_price": "3000",
+            "sum_yome": null
+        },
+        "3": {
+            "category_id": "3",
+            "category_name": "生活消耗品",
+            "sum_danna": "233",
+            "sum_price": "3233",
+            "sum_yome": "3000"
+        },
+        "4": {
+            "category_id": "4",
+            "category_name": "家具・家電",
+            "sum_danna": "15000",
+            "sum_price": "19800",
+            "sum_yome": "4800"
+        },
+        "5": {
+            "category_id": "5",
+            "category_name": "医療",
+            "sum_danna": null,
+            "sum_price": "2800",
+            "sum_yome": "2800"
+        },
+        "6": {
+            "category_id": "6",
+            "category_name": "家賃",
+            "sum_danna": "60000",
+            "sum_price": "120000",
+            "sum_yome": "60000"
+        },
+        "7": {
+            "category_id": "7",
+            "category_name": "電気水道ガス通信",
+            "sum_danna": "6000",
+            "sum_price": "12000",
+            "sum_yome": "6000"
+        },
+        "8": {
+            "category_id": "8",
+            "category_name": "遊興費",
+            "sum_danna": "10000",
+            "sum_price": "18000",
+            "sum_yome": "8000"
+        },
+        "danna": 99233,
+        "sum": 186033,
+        "yome": 86800
+    },
+    "mon2": {
+        "danna": 0,
+        "sum": 0,
+        "yome": 0
+    },
+    "mon3": {
+        "danna": 0,
+        "sum": 0,
+        "yome": 0
+    },
+    "mon4": {
+        "danna": 0,
+        "sum": 0,
+        "yome": 0
+    },
+    "mon5": {
+        "danna": 0,
+        "sum": 0,
+        "yome": 0
+    },
+    "mon6": {
+        "danna": 0,
+        "sum": 0,
+        "yome": 0
+    },
+    "mon7": {
+        "danna": 0,
+        "sum": 0,
+        "yome": 0
+    },
+    "mon8": {
+        "danna": 0,
+        "sum": 0,
+        "yome": 0
+    },
+    "mon9": {
+        "danna": 0,
+        "sum": 0,
+        "yome": 0
+    },
+    "msg": "年データを取得します。",
+    "status": "1",
+    "total": {
+        "all": 389233,
+        "danna": 211233,
+        "yome": 178000
+    }
+}

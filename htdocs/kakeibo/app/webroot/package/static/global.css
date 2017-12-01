@@ -1,0 +1,58 @@
+body{
+  margin:0;
+  padding:0;
+}
+
+a,
+a:hover,
+a:visited,
+a:active{
+  color: #3eba2b;
+  text-decoration: underline;
+}
+
+a:hover{
+  text-decoration: none;
+}
+
+/* datepicker用スタイル上書き */
+.datepicker-input{
+  width: 0px !important;
+  padding: 0 33px 0 0 !important;
+}
+.datepicker-popup{
+  right: 0;
+  font-size: 16px !important;
+}
+
+.datepicker-popup .calendar-next-year-btn,
+.datepicker-popup .calendar-prev-year-btn{
+  display: none !important;
+}
+
+.datepicker-popup .calendar-head{
+  height: 44px !important;
+}
+
+.datepicker-popup .calendar-body{
+  width: 250px !important;
+  height: 250px !important;
+}
+
+.datepicker-popup a.calendar-week,
+.datepicker-popup a.calendar-week:hover,
+.datepicker-popup a.calendar-week:visited{
+  color: #333;
+  text-decoration: none;
+}
+
+/* input.numberのスタイル */
+/* Chrome、Safari */
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+/* Firefox、IE */
+input[type="number"] {
+    -moz-appearance:textfield;
+}

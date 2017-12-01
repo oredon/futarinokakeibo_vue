@@ -1,0 +1,50 @@
+/*
+  ボタンや注記テキストなど、複数コンポーネントでまたがって使用されるCSSをここに記載
+    特定コンポーネントのみに使われる（または水平展開しない想定）STYLEは各コンポーネントの<style scoped>に記載すること
+    全ページ統一のSTYLE（ex. リンクカラー、bodyの余白、リセット系STYLE等）はHTMLで直接linkタグなどで記載すること
+ */
+
+/* テキスト系 */
+.red{color: red;}
+.bold{font-weight: bold;}
+.foo{color: gray(80);}
+.bar{color: gray(20%, 60%);}
+.em{color: #3eba2b;}
+.alert{color: #d04255;}
+
+/* button */
+.btnGeneral,
+.btnSubmit,
+.btnA,
+.btnB{
+  margin:0;
+  padding: 0;
+  min-height: 35px;
+  line-height: 35px;
+  min-width: 90px;
+  border: none;
+  cursor: pointer;
+  transition: all 500ms 0s ease;
+  background: #eaeaea;
+}
+.btnGeneral:hover,
+.btnA:hover,
+.btnB:hover{
+  background: none;
+}
+.btnSubmit{
+  color: #fff;
+  background: #3eba2b;
+  font-weight: bold;
+}
+.btnSubmit:hover{
+  background: #81d674;
+}
+.btnA{
+  color: #3eba2b;
+  font-weight: bold;
+}
+.btnB{
+  color: #d04255;
+  font-weight: bold;
+}

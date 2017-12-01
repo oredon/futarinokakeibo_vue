@@ -1,0 +1,204 @@
+{
+    "category": {
+        "1": "食料品",
+        "2": "雑貨",
+        "3": "生活消耗品",
+        "4": "家具・家電",
+        "5": "医療",
+        "6": "家賃",
+        "7": "電気水道ガス通信",
+        "8": "遊興費",
+        "9": "その他"
+    },
+    "danna": 99233,
+    "detail": [
+        {
+            "Form": {
+                "category_id": "1",
+                "created": "2017-12-15",
+                "date": "2017-12-01",
+                "description": "",
+                "id": "9",
+                "modified": "2017-12-15",
+                "pay_danna": "4000",
+                "pay_yome": "200",
+                "price": "4200",
+                "title": "食料買い出し"
+            }
+        },
+        {
+            "Form": {
+                "category_id": "3",
+                "created": "2017-12-15",
+                "date": "2017-12-03",
+                "description": "トイレットペーパーなど衛生品買い出し",
+                "id": "10",
+                "modified": "2017-12-15",
+                "pay_danna": "233",
+                "pay_yome": "3000",
+                "price": "3233",
+                "title": "ドラッグスーパー"
+            }
+        },
+        {
+            "Form": {
+                "category_id": "2",
+                "created": "2017-12-15",
+                "date": "2017-12-04",
+                "description": "おはし購入",
+                "id": "11",
+                "modified": "2017-12-15",
+                "pay_danna": "3000",
+                "pay_yome": null,
+                "price": "3000",
+                "title": "デパート"
+            }
+        },
+        {
+            "Form": {
+                "category_id": "1",
+                "created": "2017-12-15",
+                "date": "2017-12-05",
+                "description": "たまには外食",
+                "id": "12",
+                "modified": "2017-12-15",
+                "pay_danna": "1000",
+                "pay_yome": "2000",
+                "price": "3000",
+                "title": "レストラン"
+            }
+        },
+        {
+            "Form": {
+                "category_id": "4",
+                "created": "2017-12-15",
+                "date": "2017-12-07",
+                "description": "",
+                "id": "13",
+                "modified": "2017-12-15",
+                "pay_danna": "15000",
+                "pay_yome": "4800",
+                "price": "19800",
+                "title": "加湿器"
+            }
+        },
+        {
+            "Form": {
+                "category_id": "5",
+                "created": "2017-12-15",
+                "date": "2017-12-10",
+                "description": "",
+                "id": "14",
+                "modified": "2017-12-15",
+                "pay_danna": null,
+                "pay_yome": "2800",
+                "price": "2800",
+                "title": "風邪"
+            }
+        },
+        {
+            "Form": {
+                "category_id": "7",
+                "created": "2017-12-15",
+                "date": "2017-12-15",
+                "description": "",
+                "id": "15",
+                "modified": "2017-12-15",
+                "pay_danna": "6000",
+                "pay_yome": "6000",
+                "price": "12000",
+                "title": "電話代"
+            }
+        },
+        {
+            "Form": {
+                "category_id": "8",
+                "created": "2017-12-15",
+                "date": "2017-12-18",
+                "description": "",
+                "id": "16",
+                "modified": "2017-12-15",
+                "pay_danna": "10000",
+                "pay_yome": "8000",
+                "price": "18000",
+                "title": "ゆうえんち"
+            }
+        },
+        {
+            "Form": {
+                "category_id": "6",
+                "created": "2017-12-15",
+                "date": "2017-12-25",
+                "description": "",
+                "id": "17",
+                "modified": "2017-12-15",
+                "pay_danna": "60000",
+                "pay_yome": "60000",
+                "price": "120000",
+                "title": "家賃"
+            }
+        }
+    ],
+    "list": [
+        {
+            "category_id": "1",
+            "category_name": "食料品",
+            "sum_danna": "5000",
+            "sum_price": "7200",
+            "sum_yome": "2200"
+        },
+        {
+            "category_id": "3",
+            "category_name": "生活消耗品",
+            "sum_danna": "233",
+            "sum_price": "3233",
+            "sum_yome": "3000"
+        },
+        {
+            "category_id": "2",
+            "category_name": "雑貨",
+            "sum_danna": "3000",
+            "sum_price": "3000",
+            "sum_yome": null
+        },
+        {
+            "category_id": "4",
+            "category_name": "家具・家電",
+            "sum_danna": "15000",
+            "sum_price": "19800",
+            "sum_yome": "4800"
+        },
+        {
+            "category_id": "5",
+            "category_name": "医療",
+            "sum_danna": null,
+            "sum_price": "2800",
+            "sum_yome": "2800"
+        },
+        {
+            "category_id": "7",
+            "category_name": "電気水道ガス通信",
+            "sum_danna": "6000",
+            "sum_price": "12000",
+            "sum_yome": "6000"
+        },
+        {
+            "category_id": "8",
+            "category_name": "遊興費",
+            "sum_danna": "10000",
+            "sum_price": "18000",
+            "sum_yome": "8000"
+        },
+        {
+            "category_id": "6",
+            "category_name": "家賃",
+            "sum_danna": "60000",
+            "sum_price": "120000",
+            "sum_yome": "60000"
+        }
+    ],
+    "msg": "月データを表示します",
+    "status": "1",
+    "sum": 186033,
+    "yome": 86800
+}
